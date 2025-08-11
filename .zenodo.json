@@ -1,0 +1,23 @@
+{
+  "title": "Shiva_crater v1.0.0",
+  "upload_type": "software",
+  "description": "Code to reproduce radial profiles and simple prism-based forward models for gravity/magnetics over the Mumbai offshore basin.",
+  "creators": [
+    {"name": "Sabarinath, M. D.", "affiliation": "IISER Kolkata", "orcid": "0000-0000-0000-0000"}
+  ],
+  "license": "MIT",
+  "keywords": ["geophysics", "gravity", "magnetics", "crater modeling", "QGIS", "Python"],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sabarinathmd/Shiva_crater/releases/tag/v1.0.0",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://doi.org/10.5285/1c44ce99-0a0d-5f4f-e063-7086abc0ea0f",
+      "relation": "references",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Archived via GitHub–Zenodo integration."
+}
