@@ -1,15 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it."
-title: "Shiva_crater: radial profiles and forward modeling"
-version: "v1.0.0"
-date-released: "2025-07-15"
+message: "If you use this code, please cite it as below."
+title: "Shiva-crater radial-profile and modelling scripts"
 authors:
   - family-names: "Sabarinath"
-    given-names: "M. D."
-    affiliation: "IISER Kolkata"
-    orcid: "https://orcid.org/0000-0000-0000-0000"   # if you have one
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.XXXXXXX                    # version DOI from Zenodo
-repository-code: "https://github.com/sabarinathmd/Shiva_crater"
+    given-names: "M D"
+    # orcid: "https://orcid.org/0009-0001-5480-0674"  # add if you have one
+version: "v1.1.0"
+date-released: "2025-08-11"
 license: "MIT"
+repository-code: "https://github.com/sabarinathmd/Shiva_crater"
