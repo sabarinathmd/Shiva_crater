@@ -1,4 +1,4 @@
-# CITATION.cff  (place at repo root)
+# CITATION.cff
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "Shiva_crater: radial-profile extraction and prism-based forward modelling code"
