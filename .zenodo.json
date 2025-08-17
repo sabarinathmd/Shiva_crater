@@ -1,24 +1,24 @@
 {
-  "title": "Shiva-crater radial-profile and modelling scripts",
+  "title": "Shiva_crater: radial-profile extraction and prism-based forward modelling code",
   "upload_type": "software",
-  "description": "Python code used to extract radial profiles from gravity, magnetic and bathymetry grids and to run simple prism-based forward models for the proposed Shiva impact structure.",
+  "description": "Python code used to extract radial profiles (gravity, magnetic, bathymetry) around the Mumbai offshore structure and to compute simple prism-based forward models.",
   "creators": [
-    {
-      "name": "Sabarinath, M. D.",
-      "affiliation": "Indian Institute of Science Education and Research (IISER) Kolkata"
-      "orcid": "0009-0001-5480-0674"
-    }
+    { "name": "Sabarinath M D", "affiliation": "IISER Kolkata" }
   ],
-  "keywords": ["geophysics", "gravity", "magnetics", "bathymetry", "impact cratering", "Shiva"],
-  "license": "MIT",
   "access_right": "open",
-  "version": "v1.2.1",
+  "license": "MIT",
+  "keywords": [
+    "geophysics",
+    "gravity",
+    "magnetics",
+    "impact craters",
+    "bathymetry",
+    "QGIS",
+    "rasterio",
+    "numpy",
+    "matplotlib"
+  ],
   "related_identifiers": [
-    {
-      "scheme": "url",
-      "identifier": "https://github.com/sabarinathmd/Shiva_crater",
-      "relation": "isSupplementedBy",
-      "resource_type": "software"
-    }
+    { "relation": "isSupplementTo", "identifier": "https://github.com/sabarinathmd/Shiva_crater/tree/v1.2.2" }
   ]
 }
