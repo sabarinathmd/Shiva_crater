@@ -4,8 +4,9 @@ title: "Shiva-crater radial-profile and modelling scripts"
 authors:
   - family-names: "Sabarinath"
     given-names: "M D"
-    # orcid: "https://orcid.org/0009-0001-5480-0674"  # add if you have one
-version: "v1.1.0"
-date-released: "2025-08-11"
+    orcid: "0009-0001-5480-0674"
+version: "v1.2.1"
+date-released: "2025-08-17"
 license: "MIT"
 repository-code: "https://github.com/sabarinathmd/Shiva_crater"
+
