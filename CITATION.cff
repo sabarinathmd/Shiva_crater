@@ -1,12 +1,26 @@
+# CITATION.cff  (place at repo root)
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
-title: "Shiva-crater radial-profile and modelling scripts"
-authors:
-  - family-names: "Sabarinath"
-    given-names: "M D"
-    orcid: "0009-0001-5480-0674"
-version: "v1.2.1"
+title: "Shiva_crater: radial-profile extraction and prism-based forward modelling code"
+version: "v1.2.2"
 date-released: "2025-08-17"
-license: "MIT"
+type: software
+license: MIT
 repository-code: "https://github.com/sabarinathmd/Shiva_crater"
+abstract: >
+  Python scripts used to derive radial gravity, magnetic, and bathymetry profiles
+  near the proposed Shiva structure offshore Mumbai, and to run simple prism-based
+  forward models for comparison with observations.
 
+authors:
+  - family-names: "M D"
+    given-names: "Sabarinath"
+    affiliation: "Indian Institute of Science Education and Research (IISER) Kolkata"
+
+keywords:
+  - geophysics
+  - gravity anomalies
+  - magnetic anomalies
+  - impact cratering
+  - bathymetry
+  - profile extraction
