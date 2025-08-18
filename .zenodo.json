@@ -1,7 +1,7 @@
 {
   "title": "Shiva_crater: radial-profile extraction and prism-based forward modelling code",
   "upload_type": "software",
-  "description": "Python code used to extract radial profiles (gravity, magnetic, bathymetry) around the Mumbai offshore structure and to compute simple prism-based forward models.",
+  "description": "Python code used to extract radial profiles (gravity, magnetic, bathymetry) around the Mumbai offshore structure, to compute simple prism-based forward models and show 6m signal attenuation.",
   "creators": [
     { "name": "Sabarinath M D", "affiliation": "IISER Kolkata" }
   ],
