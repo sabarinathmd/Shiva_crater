@@ -2,15 +2,15 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "Shiva_crater: radial-profile extraction and prism-based forward modelling code"
-version: "v1.2.2"
-date-released: "2025-08-17"
+version: "v1.2.3"
+date-released: "2025-08-18"
 type: software
 license: MIT
 repository-code: "https://github.com/sabarinathmd/Shiva_crater"
 abstract: >
   Python scripts used to derive radial gravity, magnetic, and bathymetry profiles
-  near the proposed Shiva structure offshore Mumbai, and to run simple prism-based
-  forward models for comparison with observations.
+  near the proposed Shiva structure offshore Mumbai, to run simple prism-based
+  forward models for comparison with observations and to show the attenuation of a 6km signal at 4km sampling.
 
 authors:
   - family-names: "M D"
